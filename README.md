@@ -28,3 +28,8 @@ or
 ```
 --This is a one line comment in Lua.--
 ```
+
+## How to Print or Output on the screen in Lua
+This simple command to print or output on the screen.
+```print("Hello, world! 2025") ``` 
+```print("This"..' is '..'2025!') ```
