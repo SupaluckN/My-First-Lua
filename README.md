@@ -20,11 +20,11 @@ This is multiline comments in Lua.
 
 ### One line comment in Lua. 
 ```
--- c
+--This is a one line comment in Lua.
 ```
 
 or 
 
 ```
----- This is a one line comment in Lua.--
+--This is a one line comment in Lua.--
 ```
