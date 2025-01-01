@@ -39,5 +39,6 @@ This example command to print or output on the screen.
 print("Hello, world! 2025") 
 ``` 
 
-```print("This"..' is '..'2025!') 
+```
+print("This"..' is '..'2025!') 
 ```
