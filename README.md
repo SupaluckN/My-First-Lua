@@ -34,7 +34,7 @@ or
 ```
 
 ## How to Print or Output on the screen in Lua
-This example command to print or output on the screen.
+This example commands to print or output on the screen.
 ```
 print("Hello, world! 2025") 
 ``` 
