@@ -42,3 +42,10 @@ print("Hello, world! 2025")
 ```
 print("This"..' is '..'2025!') 
 ```
+
+## Data Types of Lua
+1. nil 
+2. number 
+3. string 
+4. boolean 
+5. table
